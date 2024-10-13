@@ -18,12 +18,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ```bash
 git clone https://github.com/your-username/django-boilerplate.git
+
+```
+### 2. Open Your Boilerplate File
+```bash
 cd django-boilerplate
+
 ```
 
 
-### 2. Create .env file in root folder
-add your DJANGO_SECRET_KEY here u can use Reference Key but try to create your own
+### 3. Create .env file in root folder
+Add your **DJANGO_SECRET_KEY** here u can use Reference Key but try to create your own
 ```bash
 = 8rEP9z)/5(O#9P(pqGx&GJegykBGcAE%2Hq1VovXjGwdjwqDla
 ```
