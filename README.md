@@ -32,3 +32,8 @@ Add your **DJANGO_SECRET_KEY** here u can use Reference Key but try to create yo
 ```bash
 = 8rEP9z)/5(O#9P(pqGx&GJegykBGcAE%2Hq1VovXjGwdjwqDla
 ```
+
+### 3. Install requirements.txt file
+```bash
+pip install -r requirements.txt
+```
