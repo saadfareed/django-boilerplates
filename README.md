@@ -32,3 +32,8 @@ add your DJANGO_SECRET_KEY here u can use Reference Key but try to create your o
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Run Project 
+```bash
+python manage.py runserver
+```
