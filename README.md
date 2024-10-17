@@ -6,7 +6,7 @@ This is a simple and scalable boilerplate for Django web applications. It comes 
 
 Before you begin, ensure you have the following installed on your local machine:
 
-- Python 3.8+
+- Python 3.11+
 - [Git](https://git-scm.com/)
 - A virtual environment manager like `virtualenv` or `venv`
 
